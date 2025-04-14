@@ -1,0 +1,6 @@
+- Instalar o GNUPG
+- Criar um arquivo de texto chamado clientes.txt contendo informações fictícias de clientes
+- Gerar par de chaves (Public e privada) usando GnuPG
+- Criptografar o arquiv usando a chave pública do seu parceiro
+- Enviar o arquivo criptografado por e-mail ou outro meio seguro
+- Simular a descriptografia do arquivo usando a chave privada correspondente
